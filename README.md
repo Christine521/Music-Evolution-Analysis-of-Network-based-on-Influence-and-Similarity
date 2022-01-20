@@ -1,4 +1,4 @@
-# Music-Evolution-Analysis-of-Network-based-on-Influence-and-Similarity
+# Music Evolution Analysis of Network based on Influence and Similarity
 Music is one of the most essential parts of the spiritual life of human society. It is also a complex
 target of scientific inquiry. Directed networks are constructed and a series of algorithms are
 applied, so that we can describe the characteristics and interrelation of both musicians and
